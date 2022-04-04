@@ -9,3 +9,5 @@
 :monocle_face: I'm looking for part-time **internship** to take the first steps in my career. :chart_with_upwards_trend:
 
 :envelope: valentinnn1@outlook.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinnn1)](https://github.com/valentinnn1/github-readme-stats)
