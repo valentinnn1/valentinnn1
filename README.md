@@ -10,4 +10,3 @@
 
 :envelope: valentinnn1@outlook.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinnn1)](https://github.com/valentinnn1/github-readme-stats)
