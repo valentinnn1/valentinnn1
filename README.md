@@ -9,5 +9,3 @@
 :monocle_face: I'm looking for part-time **internship** to take the first steps in my career. :chart_with_upwards_trend:
 
 :envelope: valentinnn1@outlook.com
-
-<img alt="GIF" src="https://github.com/valentinnn1/valentinnn1/blob/main/coding.gif?raw=true" width="408" height="218" />
