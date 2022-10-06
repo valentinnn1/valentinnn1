@@ -2,7 +2,7 @@
 
 :mortar_board: I'm a **Software Engineering student** at **Technical University Sofia**. :books:
 
-:dart: I'm currently learning **C Basics** but I enjoy **Front-end development**. :heart_eyes:
+:dart: I'm currently learning **Java Basics** but I enjoy **Front-end development**. :heart_eyes:
 
 :deciduous_tree: I love travelling and also my hometown **Sofia**. :classical_building:
 
